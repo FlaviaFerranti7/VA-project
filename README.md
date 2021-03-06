@@ -21,6 +21,6 @@ Flavia Ferranti [<img src="https://cdn4.iconfinder.com/data/icons/social-messagi
 Valerio Longo [<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20">](https://www.linkedin.com/in/valerio-longo-51000a10a/) [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20" height="20">](https://github.com/1655653)
 
 ## Snapshots
-<img src = "https://raw.githubusercontent.com/FrancescoArtibani97/VA-project/main/snapshots/case_study1.png" width="100%" height="100%">
-<img src = "https://raw.githubusercontent.com/FrancescoArtibani97/VA-project/main/snapshots/case_study2.png" width="100%" height="100%">
-<img src = "https://raw.githubusercontent.com/FrancescoArtibani97/VA-project/main/snapshots/case_study3.png" width="100%" height="100%">
+<img src = "https://raw.githubusercontent.com/FlaviaFerranti7/VA-project/main/snapshots/case_study1.png" width="100%" height="100%">
+<img src = "https://raw.githubusercontent.com/FlaviaFerranti7/VA-project/main/snapshots/case_study2.png" width="100%" height="100%">
+<img src = "https://raw.githubusercontent.com/FlaviaFerranti7/VA-project/main/snapshots/case_study3.png" width="100%" height="100%">
